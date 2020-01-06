@@ -1,0 +1,7 @@
+---
+applications:
+  - name: Question1
+    path: build/libs/Question1-1.0-SNAPSHOT.jar
+    random-route: true
+    env:
+      messagemanifest: Hello from Cloud Foundry Manifest
